@@ -1,7 +1,7 @@
 import * as types from 'js/constants/ActionTypes';
 
 /*
- * action creator
+ * action creator . 
  */
 export function sendMessage(message) {
     return {
